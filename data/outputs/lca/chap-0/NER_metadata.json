@@ -1,0 +1,314 @@
+[
+  {
+    "Baley": [
+      {
+        "PER": 37
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "C. 5": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "C. 6": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "C. 7": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "COMMISSAIRE PRINCIPAL DE POLICE DE NEW YORK": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Caisse des retraites": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "City Hall Building": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "ENDERBY": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Ecoutez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Enderby": [
+      {
+        "PER": 14
+      },
+      {
+        "ORG": 2
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Excusez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "JULIUS": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "JULIUS ENDERBY": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Jacques": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Julius": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Les Mondes Extérieurs": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "ORG": 11
+      },
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "Los Angeles": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Maison-Blanche": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "NEW YORK": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "POLICE": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "PRINCIPAL": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Paul": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Pierre": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "R de Berlin": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "R. Sammy": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Robot Daneel": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Roj Nemennuh Sarton": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Sammy": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Service": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Simpson": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Spacetown 1": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Town": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Vince": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Vince Barrett": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "York": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "classe C. 7": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "maisons": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "tours de New": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "émeutes de": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

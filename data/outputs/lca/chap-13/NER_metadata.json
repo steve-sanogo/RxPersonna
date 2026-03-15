@@ -1,0 +1,171 @@
+[
+  {
+    "Baley": [
+      {
+        "PER": 40
+      }
+    ]
+  },
+  {
+    "Bentley": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Bible": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Cités": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 19
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elisabeth": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Francis Clousarr": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Hôtel de Ville": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Jane Myers": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "ORG": 11
+      },
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "Joseph Klemin": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Jézabel": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Klemin": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "La Bible": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "ORG": 11
+      },
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Lizzy": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 11
+      }
+    ]
+  },
+  {
+    "Toilettes": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Ville": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Bible": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 2
+      }
+    ]
+  }
+]

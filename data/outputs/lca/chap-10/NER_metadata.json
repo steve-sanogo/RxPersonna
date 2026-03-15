@@ -1,0 +1,151 @@
+[
+  {
+    "Baley": [
+      {
+        "PER": 51
+      }
+    ]
+  },
+  {
+    "Ben": [
+      {
+        "PER": 13
+      }
+    ]
+  },
+  {
+    "Bonsoir": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Ca va mal tourner": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 14
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elijah Baley": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Excusez-moi bredouilla Baley": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Grimpons": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Hôtel de Ville": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Le Daneel": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Les oiseaux": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "San Francisco": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Tout d’un coup": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Ville": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Zoo": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "au Caire": [
+      {
+        "LOC": 2
+      }
+    ]
+  }
+]

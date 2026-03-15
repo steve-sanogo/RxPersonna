@@ -1,0 +1,392 @@
+[
+  {
+    "Astinwald": [
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Astronef": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Attention": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Billibotton": [
+      {
+        "LOC": 8
+      },
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Casilia": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Cinna": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Dahlites": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Davan": [
+      {
+        "PER": 5
+      },
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "Demerzel": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors": [
+      {
+        "ORG": 13
+      },
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Dors Venabili": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Dors avec un naturel parfait": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors hocha la tête": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors impatientée": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors, je suis sérieux": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elgin Marron": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Empereur": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Exos": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "GALACTICA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Galactos": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Gebore": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Hari": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "Hari Seldon d’Hélicon": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Kan": [
+      {
+        "PER": 18
+      },
+      {
+        "LOC": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Lanel": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Lanel Russ": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "L’Empereur": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Maire": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Maire de Dahl": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Marron": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Maître Seldon": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Maîtresse": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Maîtresse Tisalver": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Neutralisez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Policiers RAYCH": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Raych": [
+      {
+        "PER": 23
+      }
+    ]
+  },
+  {
+    "Russ": [
+      {
+        "PER": 17
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 34
+      },
+      {
+        "LOC": 16
+      },
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "Soleil": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Sourire": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Tisalver": [
+      {
+        "PER": 2
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Tisalver, la dame": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Trantoriens": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "hypernef": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Galaxie": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "l’Empereur": [
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "l’Empire": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "soleil": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Étrange": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

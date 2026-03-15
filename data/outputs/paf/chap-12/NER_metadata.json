@@ -1,0 +1,461 @@
+[
+  {
+    "Admettez": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Amaryl": [
+      {
+        "PER": 16
+      }
+    ]
+  },
+  {
+    "Anat Bigell": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Anciens": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Aurora": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Billibotton": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "C-3": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Casilia": [
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "Cléon": [
+      {
+        "PER": 17
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Couverture": [
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "Dahlite mâle": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dahlites": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Demerzel": [
+      {
+        "PER": 16
+      },
+      {
+        "ORG": 10
+      }
+    ]
+  },
+  {
+    "Dieu": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Dors": [
+      {
+        "ORG": 12
+      },
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Dors Venabili": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Dors du regard": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors et dit : « C’": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors un regard ahuri": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Déduction mathématique": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Empereur": [
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "Empereurs": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Exos": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Frères mycogéniens": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "GALACTICA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Goutte-de-Pluie Quarante-trois": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Grand Ancien": [
+      {
+        "LOC": 3
+      },
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Hano Lindor": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Hari": [
+      {
+        "PER": 5
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 8
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Jirad": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Jirad ou moi monterons jamais": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Kan": [
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "Lindor": [
+      {
+        "PER": 8
+      }
+    ]
+  },
+  {
+    "L’Empereur": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Maire de Kan": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Maître Seldon": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Maître-du-Soleil Quatorze": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Maîtresse": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Maîtresse Tisalver": [
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "Maîtresse Venabili": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Mère Rittah": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Oh, ça": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Parlez-m’en": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Puisatiers": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 44
+      },
+      {
+        "LOC": 23
+      },
+      {
+        "ORG": 4
+      }
+    ]
+  },
+  {
+    "Soupir": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Tisalver": [
+      {
+        "PER": 20
+      },
+      {
+        "ORG": 4
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Trantoriens": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Université": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Venabili": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "docteur Seldon": [
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "d’Anat Bigell": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "d’Hélicon": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "hypernef": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Galaxie": [
+      {
+        "LOC": 12
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 7
+      }
+    ]
+  },
+  {
+    "l’Empereur": [
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "l’Empire": [
+      {
+        "LOC": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "Baley": [
+      {
+        "PER": 26
+      }
+    ]
+  },
+  {
+    "Bentley": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Elijah Baley": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Enderby": [
+      {
+        "PER": 8
+      },
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "ORG": 9
+      },
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "Jessie, je t’en prie": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Julius Enderby": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "ORG": 5
+      },
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "L’administration": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Médiévalisme outrancier": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "New York": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Plastofilm": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "R. Daneel Olivaw": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "la Cité": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 2
+      }
+    ]
+  }
+]

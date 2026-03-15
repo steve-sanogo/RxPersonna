@@ -1,0 +1,375 @@
+[
+  {
+    "Amaryl": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Billibotton": [
+      {
+        "LOC": 12
+      },
+      {
+        "PER": 8
+      }
+    ]
+  },
+  {
+    "Ch’sais": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Clandestins DAVAN": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Dahlites": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Davan": [
+      {
+        "PER": 14
+      },
+      {
+        "LOC": 11
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Demerzel": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Don Quichotte": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors": [
+      {
+        "ORG": 11
+      },
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Dors : « Alors, vous ne pouvez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors Venabili": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Dors d’un ton égal": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors en reniflant aussi fort": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors par la manche": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors répondit du tac au tac": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors sèchement": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors, je vois ce que": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors, l’air finaud": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Exos": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "GALACTICA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "H.V. trantorienne": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Laissez- moi continuer": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "L’Empire": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Marlo Tanto": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Marron": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Maître Davan": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Maître Tisalver": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Maîtresse Tisalver": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Maîtresse Venabili": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Mon amour": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Nouveau soupir de": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Pouvons-nous": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Premier Empire galactique": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Raych": [
+      {
+        "PER": 35
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 19
+      },
+      {
+        "LOC": 13
+      },
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "Tisalver": [
+      {
+        "PER": 3
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Tisalver hasarda": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Un mec nommé Davan": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Venabili": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Yugo Amaryl": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "f’": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "la Galaxie": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "l’Empereur": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "l’Empire": [
+      {
+        "LOC": 7
+      }
+    ]
+  },
+  {
+    "p’t-être": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "rai": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "― Hé, poulette": [
+      {
+        "ORG": 1
+      }
+    ]
+  }
+]

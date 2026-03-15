@@ -1,0 +1,234 @@
+[
+  {
+    "Amérique": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Aurore": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Baley": [
+      {
+        "PER": 40
+      }
+    ]
+  },
+  {
+    "Cité moderne": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Cités": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Croyez": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Daneel ! dit-il": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dr Fastolfe": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Epoque Médiévale": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Etats": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Fastolfe": [
+      {
+        "PER": 9
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "La Terre": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Monde Extérieur": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Mondes Extérieurs": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Mondes Nouveaux": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "New": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "New York": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "New-Yorkais": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Remontant": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Surpopulation": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Toilettes": [
+      {
+        "LOC": 6
+      }
+    ]
+  },
+  {
+    "York": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "la Cité": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 5
+      }
+    ]
+  },
+  {
+    "l’Epoque Médiévale": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "micromagnétiques": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "vieille Amérique": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

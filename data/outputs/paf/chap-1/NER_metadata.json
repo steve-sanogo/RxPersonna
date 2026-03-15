@@ -1,0 +1,129 @@
+[
+  {
+    "Alem": [
+      {
+        "PER": 21
+      }
+    ]
+  },
+  {
+    "Cléon Ier": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Coup d’œil du jeune homme": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "D-7": [
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "Demerzel": [
+      {
+        "PER": 8
+      },
+      {
+        "ORG": 4
+      }
+    ]
+  },
+  {
+    "Empire Galactique": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 44
+      },
+      {
+        "LOC": 10
+      }
+    ]
+  },
+  {
+    "L’Empire": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Marbie": [
+      {
+        "PER": 7
+      },
+      {
+        "ORG": 6
+      }
+    ]
+  },
+  {
+    "Palais impérial": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 46
+      },
+      {
+        "LOC": 29
+      },
+      {
+        "ORG": 9
+      }
+    ]
+  },
+  {
+    "la Galaxie": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "l’Empereur": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "l’Empire": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Étendez": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "Baley": [
+      {
+        "PER": 45
+      }
+    ]
+  },
+  {
+    "Centrale de levure": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Clousarr": [
+      {
+        "PER": 10
+      },
+      {
+        "LOC": 7
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 18
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dieu": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Docteur Gerrigel": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 6
+      },
+      {
+        "ORG": 5
+      }
+    ]
+  },
+  {
+    "Enderby": [
+      {
+        "PER": 10
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Francis": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Gerrigel": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Jessie et moi": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Julius": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Première Loi": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "R. Sammy": [
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "Sammy": [
+      {
+        "PER": 9
+      }
+    ]
+  },
+  {
+    "Vince Barrett": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "préfecture de Police": [
+      {
+        "LOC": 2
+      }
+    ]
+  }
+]
