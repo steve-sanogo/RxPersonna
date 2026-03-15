@@ -1,0 +1,159 @@
+{
+
+"LEX_AMI": [
+    "aider", "aimer", "amitié", "apprécier", "approuver", "associé", "assistance", 
+    "bonjour", "bienveillance", "camarade", "charité", "collaboration", "collaborer", 
+    "complice", "compréhension", "concorde", "confiance", "confrère", "conseiller", 
+    "coopérer", "coopération", "cordial", "défendre", "défense", "dévouement", 
+    "encourager", "entente", "estime", "féliciter", "fidèle", "fidélité", "fraternité", 
+    "gratitude", "loyal", "loyauté", "partenaire", "pardonner", "plaire", "protéger", 
+    "protection", "recommander", "remercier", "respect", "respecter", "saluer", 
+    "sauvegarde", "sauver", "secourir", "se serrer la main", "soutenir", "soutien", 
+    "sympathie", "sympathiser", "unir", "veiller sur"
+],
+
+ "LEX_ENNEMI": [
+    "accuser", "agresser", "arrêter", "assassiner", "attaquer", "battre", "bousculer", 
+    "briser", "chasser", "clouer le bec", "comploter", "conspiration", "contraindre", 
+    "contrainte", "criminel", "déclasser", "déchéance", "dédaigner", "dénoncer", 
+    "déplaire", "désactiver", "détester", "détruire", "destruction", "disgrâce", 
+    "éliminer", "émeute", "emprisonner", "ennemi", "exaspérer", "exclure", "exproprier", 
+    "frapper", "haïr", "hostile", "hostilité", "humilier", "injurier", "insulter", 
+    "interdire", "lutter", "malfaire", "manipuler", "menacer", "meurtre", "nuire", 
+    "offenser", "opposer", "oppression", "persécuter", "pousser", "provoquer", 
+    "punir", "réprimander", "se révolter", "soupçonner", "suspect", "suspecter", 
+    "trahir", "trahison", "tuer", "vaincre", "venger"
+],
+
+"LEX_NEUTRE_DIPLOMATIQUE":[
+    "accepter", "annoncer", "causer", "confirmer", "convenir", "demander", 
+    "déterminer", "discuter", "écouter", "examiner", "expliquer", "informer", 
+    "interroger", "négocier", "noter", "observer", "parler", "prévenir", 
+    "proposer", "questionner", "recevoir", "rencontrer", "répondre", "signaler", 
+    "téléphoner", "transmettre", "vérifier"
+],
+
+"LEX_SCORE":{
+    "sauver": 4,
+    "protéger": 3,
+    "aider": 2,
+    "se serrer la main": 2,
+    "remercier": 2,
+    "féliciter": 2,
+    "pardonner": 3,
+    "aimer": 2,
+    "apprécier": 2,
+    "approuver": 1,
+    "collaborer": 2,
+    "coopérer": 2,
+    "soutenir": 2,
+    "saluer": 1,
+    "respecter": 2,
+    "faire confiance": 2,
+    "encourager": 1,
+    "sympathiser": 2,
+    "secourir": 3,
+    "veiller sur": 3,
+    "fidèle": 2,
+    "loyal": 2,
+    "plaire": 1,
+    "tuer": -4,
+    "assassiner": -4,
+    "désactiver": -4,
+    "trahir": -4,
+    "détruire": -3,
+    "frapper": -3,
+    "menacer": -2,
+    "accuser": -2,
+    "soupçonner": -2,
+    "suspecter": -2,
+    "arrêter": -3,
+    "emprisonner": -3,
+    "déclasser": -3,
+    "haïr": -2,
+    "détester": -2,
+    "insulter": -2,
+    "offenser": -2,
+    "humilier": -2,
+    "manipuler": -2,
+    "contraindre": -2,
+    "ordonner": -1,
+    "interdire": -1,
+    "imposer": -1,
+    "bousculer": -2,
+    "chasser": -2,
+    "se révolter": -2,
+    "attaquer": -3,
+    "punir": -2,
+    "nuire": -2,
+    "comploter": -3,
+    "clouer le bec": -2,
+    "exclure": -2,
+    "déplaire": -1,
+    "discuter": 0,
+    "interroger": 0,
+    "demander": 0,
+    "répondre": 0,
+    "expliquer": 0,
+    "rencontrer": 0,
+    "observer": 0,
+    "proposer": 0,
+    "accepter": 1,
+    "déclarer": 0,
+    "murmurer": 0,
+    "s'écrier": 0,
+    "ordonner de": -1,
+    "faire partie de": 1,
+    "appartenir à": 1,
+    "épouser": 2,
+    "être l'associé de": 2,
+    "être le collègue de": 1,
+    "prendre soin de": 3,
+    "porter atteinte": -3,
+    "faire du mal": -3,
+    "jouer des coudes": -1
+},
+
+
+"MODALS" : [
+    "vouloir", "pouvoir", "devoir", "falloir", "sembler", "paraître", 
+    "envisager", "tenter", "essayer", "prétendre", "oser", "risquer", 
+    "souhaiter", "désirer"
+],
+
+"INTENSIFIERS": [
+    "absolument", "affreusement", "ardemment", "brutalement", "catégoriquement", 
+    "complètement", "considérablement", "désespérément", "durement", "énormément", 
+    "entièrement", "excessivement", "extrêmement", "farouchement", "fermement", 
+    "fortement", "franchement", "gravement", "immensément", "implacablement", 
+    "indubitablement", "inexorablement", "insupportablement", "intensément", 
+    "irrémédiablement", "nettement", "parfaitement", "passionnément", "profondément", 
+    "radicalement", "rigoureusement", "sérieusement", "tellement", "totalement", 
+    "tout à fait", "violemment", "vivement"
+],
+
+"NEGATION_TOKENS" : [
+    "ne", "n'", "pas", "jamais", "plus", "aucun", "aucune", "guère", 
+    "point", "rien", "sans", "nul", "nulle"
+],
+
+ "SPEECH_VERBS":[
+    "affirmer", "ajouter", "balbutier", "bégayer", "bredouiller", "confier", 
+    "crier", "déclarer", "demander", "dire", "écrire", "expliquer", "glapir", 
+    "grommeler", "hurler", "insister", "interroger", "jurer", "marmonner", 
+    "murmurer", "ordonner", "parler", "préciser", "proclamer", "prononcer", 
+    "raconter", "répéter", "répliquer", "répondre", "s'écrier", "soupirer"
+],
+
+"AFFILIATION_PATTERNS":[
+    {"label": "FAMILLE_EPOUX", "patterns": ["épouse de", "mari de", "femme de"], "polarity_hint": 2},
+    {"label": "FAMILLE_PARENT", "patterns": ["fils de", "fille de", "père de", "mère de", "enfant de"], "polarity_hint": 1},
+    {"label": "FAMILLE_FRATRIE", "patterns": ["frère de", "sœur de"], "polarity_hint": 1},
+    {"label": "PROFESSIONNEL_ASSOCIE", "patterns": ["associé de", "partenaire de", "confrère de"], "polarity_hint": 2},
+    {"label": "PROFESSIONNEL_COLLEGUE", "patterns": ["collègue de"], "polarity_hint": 1},
+    {"label": "HIERARCHIE_CHEF", "patterns": ["commissaire", "chef de", "supérieur de", "patron de"], "polarity_hint": -1},
+    {"label": "APPARTENANCE_MEMBRE", "patterns": ["membre de", "faire partie de", "adhérer à"], "polarity_hint": 1},
+    {"label": "LIEN_AMI", "patterns": ["ami de"], "polarity_hint": 2}
+]
+
+}

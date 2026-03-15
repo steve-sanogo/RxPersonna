@@ -11,51 +11,61 @@ class Config:
     WINDOW_SIZE = 25  # fenêtre de relation telle que définie
     MIN_SENTENCE_LENGTH = 5  # utilisé pour la co-occurance
 
+    # --- COEFFICIENTS DE POLARITÉ (Formule S_c) ---
+    POLARITY_BETA = 1.2  # Poids pour les interactions de type dialogue
+    POLARITY_DELTA = 2.0  # Poids pour les affiliations structurelles (famille, etc.)
+    POLARITY_EPSILON = 0.05  # Poids du signal faible de cooccurrence
+
     # Parasites de début de phrase (Pour le nettoyage NER)
     PARASITES = ["instantanément", "soudain", "puis", "cependant", "alors", "enfin"]
 
-    # Listes (On sort la blacklist du code métier !)
+    BAD_TERMS = {
+        # Lieux
+        'trantor', 'terre', 'galaxia', 'empire', 'fondation', 'seconde fondation',
+        'spacetown', 'siwenna', 'cité', 'secteur', 'mycogène', 'hélicon',
+        'dahl', 'anacréon', 'streeling', 'mentone',
+        # Ethnonymes
+        'terrien', 'terriens', 'spaciens', 'spacien', 'médiévalistes', 'médiévaliste',
+        'trantorien', 'héliconien', 'mycogénien', 'dahlite',
+        # Interjections et bruits
+        'voyons', 'oh', 'adieu', 'oui', 'non', 'ah', 'eh', 'hein',
+        'monsieur', 'madame', 'messieurs', 'robot', 'churchill', 'jésus',
+        'continuez', 'croyez-moi', 'inconnus', 'mathématicien', 'sire', 'vraiment',
+        'désolé', 'pardonnez-moi', 'machinalement', 'montez', 'avisiez', 'voudriez',
+        'calmez-vous', 'laissez-moi', 'mille mercis', 'respirez', 'attendez',
+        'collaborez', 'reculez', 'espérez', 'guidiez', 'impossible', 'ridicule',
+        'superbe', 'endormie', 'revêche', 'terraformé', 'soyez', 'chicanez',
+        'bande', 'fuite', 'livre', 'assis', 'pantalon', 'idiot',
+        'enc ore', 'poliment', 'voudriez-vous', 'voulez', 'hier', 'veuillez',
+        'asseyez', 'regardant', 'circulât', 'blasphémant', 'digéra', 'réponds',
+        'causerez', 'allez', 'auriez', 'ciel', 'shakespeare', 'heisenberg', 'adam',
+        # Fragments et artefacts
+        'galactica2 étouffant', 'môman ‖', 'étiez acrophobe',
+        'mouleront votre crâne', 'micro-aliments', 'de-pluie quarante',
+        "tite dame", "j'avisai", "l'ancien", 'kanite', 'feinta',
+        'barbare seldon', 'controverse leggen', 'surprise de benastra',
+        'seldon grimaça', 'seldon renifla', 'seldon sursauta',
+        'seldon grommela', 'seldon sourit', 'grimace de seldon',
+        'soupir de seldon', 'appelez-moi davan', 'galactica seldon',
+        'jéhu galopa', 'passez-moi jessie', 'voyons jessie', 'grommela baley',
+        'cher associé', 'bouche bée', 'dieu du ciel', 'affaire sarton',
+        "l'affaire sarton", 'saint fastolfe', 'saint gerrigel',
+        'mon cher monsieur baley',
+        # Titres et fonctions seuls
+        'sergent', 'descendants', 'violents', 'frère', 'sœur', 'sœurs',
+        'maître', 'exo', 'primo', 'lugubre', 'emmer', 'mycélium',
+        # Expressions
+        'dernier empereur', "l'empereur",
+    }
+
     FALSE_POSITIVES = {
         'voir', 'avoir', 'être', 'faire', 'dire', 'pouvoir', 'devoir', 'aller',
-        'vouloir', 'savoir', 'venir', 'falloir', 'prendre', 'donner', 'mettre',
-        'parler', 'passer', 'rester', 'rendre', 'entendre', 'attendre',
-        'comprendre', 'connaître', 'croire', 'trouver', 'demander', 'regarder',
-        'essayer', 'sentir', 'devenir', 'revenir', 'tenir', 'ouvrir', 'sortir',
-        'petit', 'grand', 'bon', 'beau', 'jeune', 'vieux', 'nouveau', 'premier',
-        'dernier', 'seul', 'même', 'autre', 'tout', 'rien', 'quelque'
+        'vouloir', 'savoir', 'venir', 'prendre', 'donner', 'mettre',
+        'petit', 'grand', 'bon', 'beau', 'jeune', 'vieux', 'nouveau',
+        'premier', 'dernier', 'seul', 'même', 'autre', 'tout', 'rien'
     }
 
-    # II. Termes problématiques et lieux
-    # On a retiré 'dors' de cette liste pour ne pas effacer le personnage Dors Venabili
-    BAD_TERMS = {
-        # 1. --- BRUIT & INTERJECTIONS ---
-        'voyons', 'assis', 'oh', 'adieu', 'livre', 'ciel',
-        'pantalon', 'bouche bée', 'endormie', 'voyons jessie',
-        'passez-moi jessie', 'dieu du ciel', 'calmez-vous',
-        'oui', 'non', 'enc ore', 'poliment', 'madame', 'messieurs',
-        'ben', 'ah', 'eh', 'he', 'voudriez-vous', 'blasphémant', 'digéra',
-        'regardant', 'circulât', 'asseyez', 'cher associé', 'réponds', 'causerez',
-        'allez', 'monsieur', 'inconnus', 'continuez', 'croyez-moi',
-        'étouffant', 'montez', 'avisiez', 'machinalement', 'désolé',
-        'e.g', 'revêche', 'livraison', 'impossible', 'ridicule',
-        'mille mercis', 'laissez-moi', 'l’ancien', 'bande',
-        'espérez', 'guidiez', 'mentone', 'respirez', 'terraformé', 'fuite',
-        'j’avisai', 'môman ‖', 'étiez acrophobe', 'pardonnez-moi', 'mathématicien',
-
-        # --- 2. LIEUX & CONCEPTS ---
-        'spacetown', 'trantor', 'terre', 'galaxia', 'empire', 'fondation',
-        'seconde fondation', 'siwenna', 'cité', 'secteur', 'mycogène', 'mycogène mycogène',
-
-        # --- 3. ETHNONYMES & GROUPES ---
-        'terrien', 'terriens', 'spaciens', 'spacien', 'les spaciens',
-        'médiévalistes', 'médiévaliste', 'trantorien', 'héliconien',
-        'mycogénien', 'le mycogénien',
-
-        # --- 4. EXCLUSIONS SPÉCIFIQUES (HISTOIRE/NOM COMMUN) ---
-        'churchill', 'jésus', 'robot', 'redites'
-    }
-
-    BLACKLIST = FALSE_POSITIVES.union(BAD_TERMS)
+    BLACKLIST = BAD_TERMS | FALSE_POSITIVES
 
     T_STOP_WORDS = []
 

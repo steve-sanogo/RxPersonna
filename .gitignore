@@ -3,10 +3,11 @@ data/images
 data/outputs
 
 # fichier spécifiques
-/Readme.md
 /visualize_graph.py
+/.gitignore
 
 
 # Cache / temporaires
 __pycache__/
 .cache/
+.idea
