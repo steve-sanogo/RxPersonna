@@ -1,0 +1,239 @@
+[
+  {
+    "Aidez": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Baley": [
+      {
+        "PER": 25
+      }
+    ]
+  },
+  {
+    "Bentley": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Clousarr": [
+      {
+        "PER": 5
+      },
+      {
+        "LOC": 4
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 42
+      }
+    ]
+  },
+  {
+    "Dieu": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dr Fastolfe": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dr Gerrigel": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Dr Sarton": [
+      {
+        "PER": 30
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Enderby": [
+      {
+        "PER": 24
+      },
+      {
+        "ORG": 3
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Fe": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Julius Enderby": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "PER": 3
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Mondes Extérieurs": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "New York": [
+      {
+        "LOC": 6
+      }
+    ]
+  },
+  {
+    "Parfait": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Première Loi": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 8
+      }
+    ]
+  },
+  {
+    "R. Sammy": [
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "Robotique": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Sammy": [
+      {
+        "PER": 8
+      }
+    ]
+  },
+  {
+    "Sarton": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Toilettes": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Williamsburg": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "culture C": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "la Cité": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 8
+      }
+    ]
+  },
+  {
+    "le Médiévalisme": [
+      {
+        "ORG": 1
+      }
+    ]
+  }
+]

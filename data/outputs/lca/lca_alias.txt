@@ -1,0 +1,140 @@
+{Roj Nemennuh Sarton}
+{Enderby, JULIUS ENDERBY, Julius}
+{Sammy, R. Sammy}
+{Robot Daneel}
+{Vince, Vince Barrett}
+{Baley}
+{Jacques}
+{Jessie}
+{Paul}
+{Simpson}
+{Daneel, Daneel Olivaw, Olivaw, R. Daneel, R. Daneel Olivaw}
+{Baley, Elijah, Elijah Baley}
+{Enderby, Julius Enderby}
+{R. Sammy}
+{Daneel, R. Daneel}
+{Baley}
+{Boris}
+{Elijah}
+{Lije}
+{Baley, Bentley, Bentley Baley, Lije, Lije Baley}
+{Daneel, Daneel Olivaw, Olivaw, M. Olivaw, R. Daneel}
+{Julius Enderby}
+{Baal}
+{Ben}
+{Elie}
+{Elijah}
+{Jesreel}
+{Jessie}
+{Jéhoram}
+{Dr Sarton}
+{Enderby, Julius Enderby}
+{Daneel, R. Daneel}
+{Baley}
+{Ben}
+{Elijah}
+{Olivaw}
+{Daneel, R. Daneel Olivaw}
+{Baley, Elijah Baley}
+{Enderby, Julius Enderby}
+{Bentley}
+{Daneel, Daneel Olivaw, R. Daneel, R. Daneel Olivaw}
+{Dr Sarton}
+{R. Sammy}
+{Baley}
+{Elijah}
+{Enderby}
+{Fastolfe}
+{Daneel, Daneel Olivaw, R. Daneel}
+{Dr Sarton}
+{Baley}
+{Enderby}
+{Fastolfe}
+{Julius}
+{Lije}
+{Fastolfe, Dr Fastolfe}
+{Daneel, R. Daneel}
+{Baley}
+{Elijah}
+{Fastolfe, Dr Fastolfe}
+{Dr Sarton}
+{Daneel, R. Daneel}
+{Baley}
+{Bentley}
+{Enderby}
+{Jessie}
+{Julius}
+{Baley, Elijah, Elijah Baley}
+{Daneel, R. Daneel}
+{Ben}
+{Jessie}
+{Lije}
+{A. Gerrigel, Gerrigel}
+{Francis Clousarr}
+{Paul Gerhard}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Baley}
+{Chester}
+{Enderby}
+{Julius}
+{Dr Fastolfe}
+{Dr Sarton}
+{Enderby, Julius Enderby}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Barrett, Vince Barrett}
+{Baley}
+{Bentley}
+{Elijah}
+{Gerrigel}
+{Norris}
+{Phil}
+{Francis Clousarr}
+{Jane Myers}
+{Joseph Klemin, Klemin}
+{Daneel, R. Daneel}
+{Baley}
+{Bentley}
+{Elijah}
+{Elisabeth}
+{Lizzy}
+{Dr Fastolfe}
+{Clousarr, Francis Clousarr, M. Clousarr}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Baley}
+{Boris}
+{Enderby}
+{Docteur Gerrigel, Gerrigel}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Vince Barrett}
+{Baley}
+{Clousarr}
+{Elijah}
+{Enderby}
+{Francis}
+{Julius}
+{Dr Fastolfe}
+{Sarton, Dr Sarton}
+{Baley, Elijah, Elijah Baley}
+{Francis Clousarr}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Enderby}
+{Dr Fastolfe}
+{Sarton, Dr Sarton}
+{Enderby, Julius Enderby}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Baley}
+{Bentley}
+{Clousarr}
+{Elijah}
+{Jessie}
+{Lije}
+{d’Enderby}
+
+
+

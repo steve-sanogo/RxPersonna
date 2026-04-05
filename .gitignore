@@ -28,8 +28,8 @@ htmlcov/
 # =========================
 # DONNÉES GÉNÉRÉES
 # =========================
-data/outputs/
-data/images/
+# data/outputs/
+# data/images/
 
 # =========================
 # LOGS / TEMP
@@ -52,3 +52,6 @@ Thumbs.db
 # DIVERS
 # =========================
 *.xlsx~
+.idea
+.gitignore
+structure.txt

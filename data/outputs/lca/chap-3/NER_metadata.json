@@ -1,0 +1,288 @@
+[
+  {
+    "Baal": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Baalites": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Baley": [
+      {
+        "PER": 26
+      }
+    ]
+  },
+  {
+    "Ben": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Bentley": [
+      {
+        "PER": 17
+      },
+      {
+        "LOC": 5
+      },
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "Bentley Baley": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Bible": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Daneel Olivaw": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Dieu": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elie": [
+      {
+        "PER": 7
+      },
+      {
+        "ORG": 5
+      }
+    ]
+  },
+  {
+    "Elie 2": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Etats de l'Epoque Médiévale": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Evidemment": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Histoire": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Jesreel": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "PER": 12
+      },
+      {
+        "ORG": 11
+      }
+    ]
+  },
+  {
+    "Jouer les Jézabel": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Julius Enderby": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Jéhoram": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Jéhovah": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Jézabel de la Bible": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "L'Histoire": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "PER": 5
+      },
+      {
+        "ORG": 4
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Lije Baley": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "M. Olivaw": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Monde Extérieur": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Mondes Extérieurs": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "New York": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Olivaw": [
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Premier Livre des Rois": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "SUBDIVISIONS IA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "SUBDIVISIONS IA - IE": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "TOILETTES": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Toilettes": [
+      {
+        "LOC": 6
+      }
+    ]
+  }
+]

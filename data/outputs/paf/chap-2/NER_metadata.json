@@ -1,0 +1,195 @@
+[
+  {
+    "Chetter Hummin": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Demerzel": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Empire Galactique": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "GALACTICA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 22
+      },
+      {
+        "LOC": 5
+      }
+    ]
+  },
+  {
+    "Impressionnant": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "L'Empereur": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "MINUTES": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Ni de grêle": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Réseau express": [
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "Secteur impérial": [
+      {
+        "LOC": 4
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 29
+      },
+      {
+        "LOC": 18
+      },
+      {
+        "ORG": 5
+      }
+    ]
+  },
+  {
+    "Strelitzia": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Suaverose": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Trantoriens": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "UNIVERSITÉ DE STREELING": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Université UNIVERSITÉ DE STREELING": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Université de Streeling": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Université hante": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Voyager sur": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "l'Empereur": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "l'Empire": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "la Galaxie": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Établissement d'enseignement supérieur": [
+      {
+        "ORG": 1
+      }
+    ]
+  }
+]

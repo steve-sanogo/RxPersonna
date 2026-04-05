@@ -1,0 +1,311 @@
+[
+  {
+    "Angleterre": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Baley": [
+      {
+        "PER": 41
+      }
+    ]
+  },
+  {
+    "Bentley": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Brighton": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Budapest": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Buenos Aires": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Canterbury": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Cité de Londres": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Comptez": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Coventry": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 12
+      }
+    ]
+  },
+  {
+    "Don Quichotte": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dr Fastolfe": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Dr Sarton": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "ORG": 5
+      },
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Enderby": [
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Envoyer un Terrien": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Fastolfe": [
+      {
+        "PER": 3
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Fe": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Jessie": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Julius": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Lije": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Londres": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Los Angeles": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Mondes Extérieurs": [
+      {
+        "ORG": 4
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "New York": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "New-Yorkais": [
+      {
+        "LOC": 5
+      }
+    ]
+  },
+  {
+    "Norwich": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Préfecture de Police": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 11
+      }
+    ]
+  },
+  {
+    "Saturne": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Section": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Service officiel": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Shanghai": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Tachkent": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Toronto": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Trinité": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Washington": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Winnipeg": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "la Cité": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "table DF": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

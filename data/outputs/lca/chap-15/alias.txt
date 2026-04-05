@@ -1,0 +1,10 @@
+{Gerrigel, Docteur Gerrigel}
+{Daneel, R. Daneel}
+{Sammy, R. Sammy}
+{Vince Barrett}
+{Baley}
+{Clousarr}
+{Elijah}
+{Enderby}
+{Francis}
+{Julius}

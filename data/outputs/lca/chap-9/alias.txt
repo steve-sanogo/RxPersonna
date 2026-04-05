@@ -1,0 +1,8 @@
+{Fastolfe, Dr Fastolfe}
+{Dr Sarton}
+{Daneel, R. Daneel}
+{Baley}
+{Bentley}
+{Enderby}
+{Jessie}
+{Julius}

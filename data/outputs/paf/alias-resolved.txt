@@ -1,0 +1,66 @@
+{A Trantor}
+{Alban Wellis, Lieutenant, Lieutenant Alban Wellis, Wellis}
+{Alem}
+{Amaryl, Yugo Amaryl}
+{Anat Bigell}
+{Astinwald}
+{Aurora}
+{Benastra}
+{Bendar}
+{Bouge}
+{Casilia}
+{Chetter, Chetter Hummin, Hummin}
+{Ch’sais}
+{Cinna}
+{Clowzia}
+{Cléon, CLÉON Ier}
+{Cléon Ier}
+{Damiano Nord}
+{Daneel}
+{Davan, docteur Dors Venabili, docteur Leggen, docteur Seldon, docteur Venabili, Dors, Dors Venabili, Hari, Hari Seldon, Hari Seldon d’Hélicon, Jenarr, Jenarr Leggen, Leggen, Maître Davan, Maître Seldon, Maître Tisalver, Maîtresse, Maîtresse Tisalver, Maîtresse Venabili, Raych, Raych Seldon, Seldon, Tisalver, Venabili}
+{Demerzel, d’Eto Demerzel, Eto Demerzel}
+{d’Anat Bigell}
+{d’Hélicon}
+{E.G}
+{Elgin Marron, Marron}
+{Emmer Thalus, Thalus}
+{Empereur}
+{Endor Levanian, Levanian}
+{Fils, Fils de l’Aube}
+{Frère honoraire}
+{f’}
+{Gebore}
+{Grand Ancien}
+{Grisnuage}
+{Hano Lindor, Lindor}
+{Kan, Kan d’― anti-empereurs ‖, Kan KAN, Mannix, Mannix IV, Mannix IV de Kan}
+{Kiangtow Randa, Randa}
+{La fille}
+{La Sœur}
+{Lanel Russ, Russ}
+{Le Mycogénien}
+{Lissauer}
+{Lisung}
+{l’Ancien}
+{L’Empereur, l’Empereur}
+{l’impératrice de Rien}
+{madame le Maire, Madame le Maire, madame le Maire ‖, madame Maire}
+{madame l’impératrice de Rien}
+{Maire}
+{Marbie}
+{Marlo Tanto}
+{Mycogène MYCOGÈNE}
+{Mycélium Soixante-douze}
+{Mère, Mère Rittah, Rittah}
+{M’dame}
+{Novigor}
+{Nân}
+{p’t-être}
+{Rachelle, Rachelle Ire}
+{Raison}
+{Redites}
+{Renégat}
+{Strelitzia}
+{Suaverose}
+{Wendome}
+{Ziggoreth}

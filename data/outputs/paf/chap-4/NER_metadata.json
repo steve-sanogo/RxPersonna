@@ -1,0 +1,184 @@
+[
+  {
+    "Clowzia": [
+      {
+        "PER": 6
+      },
+      {
+        "LOC": 6
+      }
+    ]
+  },
+  {
+    "Couverture": [
+      {
+        "ORG": 17
+      }
+    ]
+  },
+  {
+    "Dors": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors Venabili": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Dors le lui avait présenté": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Exos": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "GALACTICA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Hari": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 6
+      },
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Jenarr Leggen": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Kiangtow Randa": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Leggen": [
+      {
+        "PER": 7
+      },
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Lisung": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "OFFICIEL": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "PERSONNEL": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Palais": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Randa": [
+      {
+        "PER": 12
+      }
+    ]
+  },
+  {
+    "Réfléchissez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 40
+      },
+      {
+        "LOC": 27
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Trantoriens": [
+      {
+        "LOC": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Université": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "docteur Leggen": [
+      {
+        "PER": 1
+      }
+    ]
+  }
+]

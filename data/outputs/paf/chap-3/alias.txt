@@ -1,0 +1,8 @@
+{Chetter, Chetter Hummin, Hummin}
+{Dors, Dors Venabili, Venabili}
+{Hari, Hari Seldon, Seldon, docteur Seldon}
+{Cinna}
+{Cléon}
+{Demerzel}
+{Empereur}
+{L'Empereur, l'Empereur}

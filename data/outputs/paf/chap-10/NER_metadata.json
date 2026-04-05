@@ -1,0 +1,363 @@
+[
+  {
+    "Allons bon": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Ancien": [
+      {
+        "ORG": 2
+      },
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Anciens": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Cinna": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Dors": [
+      {
+        "ORG": 13
+      },
+      {
+        "PER": 7
+      }
+    ]
+  },
+  {
+    "Dors Venabili": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Dors et moi": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors fit virevolter ses cheveux": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors le tirait doucement par la tunique": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors murmura": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors, historienne": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Fils de l'Aube": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "GALACTICA": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Goutte-de-Pluie": [
+      {
+        "LOC": 9
+      },
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Hari": [
+      {
+        "PER": 19
+      },
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 2
+      },
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Invasion": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "L'Ancien": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Le Livre": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Le Livre dit ça": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Le monde": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Les Filles de l'Aube": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Lissauer": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Livre au pied de la lettre": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Livre dit sur les automates": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Monde": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Monde de l'Aube": [
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "Mycogéniens": [
+      {
+        "LOC": 4
+      },
+      {
+        "ORG": 2
+      },
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Mycélium Soixante-douze": [
+      {
+        "PER": 8
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Novigor": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Palais impérial": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Partez": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Réfléchissez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Sacratorium": [
+      {
+        "LOC": 25
+      },
+      {
+        "ORG": 5
+      },
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Sacratorium AURORA": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 34
+      },
+      {
+        "LOC": 19
+      },
+      {
+        "ORG": 4
+      }
+    ]
+  },
+  {
+    "Sœurs Goutte-de-Pluie": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Tabou": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Terra": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Trouver": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "l'Empire": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "le Monde": [
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "le Monde perdu": [
+      {
+        "ORG": 3
+      }
+    ]
+  },
+  {
+    "mur latéral du Sacratorium": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "―.": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

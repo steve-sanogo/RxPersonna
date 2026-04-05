@@ -1,0 +1,274 @@
+[
+  {
+    "Amérique": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Baley": [
+      {
+        "PER": 40
+      }
+    ]
+  },
+  {
+    "Barrière": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "C. 5": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Cassez-les": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Cité moderne": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Da... Daneel": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Daneel": [
+      {
+        "PER": 4
+      }
+    ]
+  },
+  {
+    "Daneel Olivaw": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Elijah": [
+      {
+        "PER": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Elijah Baley": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Enderby": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Excusez": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Hudson": [
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "Il était sur le point de dire : « Par ici ! » quand il se heurta à un rassemblement": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Julius Enderby": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Long Island": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Los Angeles": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Mondes Extérieurs": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "New York": [
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "New York City": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "New Yorkais": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Newark": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Olivaw": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Police": [
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "R. Daneel": [
+      {
+        "PER": 5
+      }
+    ]
+  },
+  {
+    "R. Daneel Olivaw": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "R. Sammy": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "Shanghaï": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Trenton": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "VILLE": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "arrondissement de l'Hudson": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "cité de New York": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "la Barrière": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "la Terre": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "newyorkais": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "police de New York": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "quartier de": [
+      {
+        "LOC": 1
+      }
+    ]
+  }
+]

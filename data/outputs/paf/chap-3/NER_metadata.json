@@ -1,0 +1,308 @@
+[
+  {
+    "Bibliothèque VENABILI": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Chetter": [
+      {
+        "PER": 1
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Chetter Hummin": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Cinna": [
+      {
+        "PER": 3
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Cléon": [
+      {
+        "PER": 15
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "DORS": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Demerzel": [
+      {
+        "PER": 17
+      },
+      {
+        "ORG": 13
+      }
+    ]
+  },
+  {
+    "Dors": [
+      {
+        "PER": 2
+      },
+      {
+        "ORG": 2
+      }
+    ]
+  },
+  {
+    "Dors Machinchose": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Dors Venabili": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "Dors sourit soudain": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "ENCYLOPEDIA": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Empereur": [
+      {
+        "PER": 3
+      }
+    ]
+  },
+  {
+    "Exos": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Grande Guerre interstellaire": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Hari": [
+      {
+        "PER": 10
+      }
+    ]
+  },
+  {
+    "Hari Seldon": [
+      {
+        "PER": 6
+      }
+    ]
+  },
+  {
+    "Historienne": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Hummin": [
+      {
+        "PER": 16
+      },
+      {
+        "LOC": 3
+      }
+    ]
+  },
+  {
+    "Jennisek": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "L'Empereur": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "La Vous êtes peut-être capable": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Neuf heures": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Psychohistoire": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Radicales": [
+      {
+        "LOC": 1
+      },
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Seldon": [
+      {
+        "PER": 34
+      },
+      {
+        "LOC": 18
+      },
+      {
+        "ORG": 6
+      }
+    ]
+  },
+  {
+    "Sourire": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Traité de Poldark": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "Université": [
+      {
+        "ORG": 8
+      },
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "Université de Streeling": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "Universités": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "Venabili": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "docteur Seldon": [
+      {
+        "PER": 1
+      }
+    ]
+  },
+  {
+    "l'Empereur": [
+      {
+        "PER": 2
+      }
+    ]
+  },
+  {
+    "l'Empire": [
+      {
+        "LOC": 2
+      }
+    ]
+  },
+  {
+    "la Galaxie": [
+      {
+        "LOC": 4
+      }
+    ]
+  },
+  {
+    "planète Jennisek": [
+      {
+        "LOC": 1
+      }
+    ]
+  },
+  {
+    "studio de Hummin": [
+      {
+        "ORG": 1
+      }
+    ]
+  },
+  {
+    "État": [
+      {
+        "LOC": 2
+      }
+    ]
+  }
+]

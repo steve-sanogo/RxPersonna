@@ -1,0 +1,193 @@
+{Alban Wellis, Lieutenant, Lieutenant Alban Wellis, Wellis}
+{CLÉON Ier, Cléon}
+{Demerzel, Eto Demerzel, d’Eto Demerzel}
+{Hari Seldon, Seldon}
+{Empereur}
+{Hummin}
+{L’Empereur, l’Empereur}
+{Cléon Ier}
+{Hari Seldon, Seldon}
+{Alem}
+{Demerzel}
+{Hummin}
+{Marbie}
+{l’Empereur}
+{Chetter Hummin, Hummin}
+{Hari Seldon, Seldon}
+{Demerzel}
+{L’Empereur, l’Empereur}
+{Strelitzia}
+{Suaverose}
+{Chetter, Chetter Hummin, Hummin}
+{Dors, Dors Venabili, Venabili}
+{Hari, Hari Seldon, Seldon, docteur Seldon}
+{Cinna}
+{Cléon}
+{Demerzel}
+{Empereur}
+{Kan}
+{L’Empereur, l’Empereur}
+{Dors, Dors Venabili}
+{Hari, Hari Seldon, Seldon}
+{Jenarr Leggen, Leggen, docteur Leggen}
+{Kiangtow Randa, Randa}
+{Clowzia}
+{Hummin}
+{Lisung}
+{Dors Venabili, Hari, Hari Seldon, Jenarr, Jenarr Leggen, Leggen, Seldon, Venabili, docteur Leggen, docteur Seldon, docteur Venabili}
+{Benastra}
+{Clowzia}
+{Damiano Nord}
+{Dors Venabili}
+{Demerzel, Eto Demerzel}
+{Hari, Hari Seldon, Seldon}
+{Mycogène MYCOGÈNE}
+{Leggen, docteur Leggen}
+{Cinna}
+{Cléon}
+{E.G}
+{Hummin}
+{Kan}
+{Randa}
+{Redites}
+{Ziggoreth}
+{Chetter Hummin, Hummin}
+{Dors Venabili}
+{Endor Levanian, Levanian}
+{Hari, Hari Seldon, Seldon}
+{Cinna}
+{Clowzia}
+{Grisnuage}
+{A Trantor}
+{Chetter Hummin, Hummin}
+{Hari, Hari Seldon, Seldon}
+{Dors}
+{Grisnuage}
+{Dors Venabili}
+{Hari, Hari Seldon, Seldon}
+{La Sœur}
+{Fils, Fils de l’Aube}
+{Dors Venabili}
+{Hari, Hari Seldon, Seldon}
+{Le Mycogénien}
+{Mycélium Soixante-douze}
+{Aurora}
+{Cinna}
+{Hummin}
+{Lissauer}
+{Novigor}
+{l’Ancien}
+{Dors Venabili, Venabili, docteur Venabili}
+{Demerzel, Eto Demerzel}
+{Frère honoraire}
+{Grand Ancien}
+{Hari, Hari Seldon, Seldon}
+{Mycélium Soixante-douze}
+{Bendar}
+{Chetter}
+{Hummin}
+{Renégat}
+{Wendome}
+{l’Empereur}
+{Anat Bigell}
+{Dors Venabili, Maîtresse, Maîtresse Tisalver, Maîtresse Venabili, Tisalver, Venabili}
+{Hano Lindor, Lindor}
+{Hari, Hari Seldon, Maître Seldon, Seldon, docteur Seldon}
+{Mère Rittah}
+{d’Anat Bigell}
+{Amaryl}
+{Aurora}
+{Casilia}
+{Cléon}
+{Demerzel}
+{Empereur}
+{Hummin}
+{Kan}
+{L’Empereur, l’Empereur}
+{d’Hélicon}
+{Chetter Hummin, Hummin}
+{Dors Venabili}
+{Hari, Hari Seldon, Maître Seldon, Seldon}
+{La fille}
+{Maîtresse Venabili}
+{Mère, Mère Rittah, Rittah}
+{Yugo Amaryl}
+{Bouge}
+{Casilia}
+{Cinna}
+{Demerzel}
+{Marron}
+{Nân}
+{Raison}
+{Raych}
+{Tisalver}
+{l’Empereur}
+{Davan, Dors Venabili, Maître Davan, Maître Tisalver, Maîtresse Tisalver, Maîtresse Venabili, Tisalver, Venabili}
+{Hari Seldon, Seldon}
+{Marlo Tanto}
+{Amaryl, Yugo Amaryl}
+{Ch’sais}
+{Demerzel}
+{Hummin}
+{Raych}
+{f’}
+{l’Empereur}
+{p’t-être}
+{Hari, Hari Seldon, Hari Seldon d’Hélicon, Maître Seldon, Seldon}
+{Dors Venabili}
+{Elgin Marron, Marron}
+{Lanel Russ, Russ}
+{Maîtresse, Maîtresse Tisalver, Tisalver}
+{Astinwald}
+{Casilia}
+{Cinna}
+{Davan}
+{Demerzel}
+{Empereur}
+{Gebore}
+{Hummin}
+{Kan}
+{L’Empereur, l’Empereur}
+{Raych}
+{Kan, Kan KAN, Kan d’― anti-empereurs ‖}
+{madame le Maire, madame le Maire ‖}
+{madame l’impératrice de Rien}
+{Dors Venabili, Hari, Hari Seldon, Maître Seldon, Seldon, Venabili, docteur Dors Venabili, docteur Seldon}
+{l’impératrice de Rien}
+{Chetter Hummin, Hummin}
+{Emmer Thalus, Thalus}
+{Mannix, Mannix IV}
+{Yugo Amaryl}
+{Davan}
+{Demerzel}
+{Empereur}
+{Maire}
+{M’dame}
+{Rachelle}
+{Raych}
+{l’Empereur}
+{Madame le Maire, madame Maire, madame le Maire}
+{Chetter Hummin, Hummin}
+{Dors Venabili, Venabili}
+{Mannix, Mannix IV}
+{Maître Seldon, Seldon}
+{Rachelle, Rachelle Ire}
+{Cléon}
+{Demerzel}
+{Hari}
+{Kan}
+{Maire}
+{Raych}
+{Thalus}
+{l’Empereur}
+{Kan, Mannix, Mannix IV de Kan}
+{Hari, Hari Seldon, Raych, Raych Seldon, Seldon}
+{Mère Rittah, Rittah}
+{Yugo Amaryl}
+{Aurora}
+{Cléon}
+{Daneel}
+{Dors}
+{Hummin}
+{Maire}
+{Rachelle}
