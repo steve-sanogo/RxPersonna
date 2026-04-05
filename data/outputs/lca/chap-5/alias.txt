@@ -1,4 +1,0 @@
-{Daneel, R. Daneel Olivaw}
-{Baley, Elijah Baley}
-{Enderby, Julius Enderby}
-{Bentley}

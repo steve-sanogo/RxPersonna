@@ -1,4 +1,0 @@
-{Fastolfe, Dr Fastolfe}
-{Daneel, R. Daneel}
-{Baley}
-{Elijah}

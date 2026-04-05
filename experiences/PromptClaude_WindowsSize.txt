@@ -1,0 +1,143 @@
+Tu es un expert en NLP, graph mining et évaluation de systèmes de cooccurrence pour l’extraction de réseaux de personnages.
+
+Je travaille sur un projet où je génère des graphes de cooccurrence entre entités nommées (personnages), évalués via un leaderboard (score F1 sur les arêtes).
+
+Je vais te fournir deux fichiers CSV de soumission :
+
+- Fichier A (baseline) :
+  - score leaderboard : 0.65
+  - correspond à une configuration actuelle (WINDOW_SIZE = 25)
+
+- Fichier B :
+  - score leaderboard : [à compléter par l'utilisateur]
+  - correspond à une autre configuration (souvent une autre taille de fenêtre)
+
+Les fichiers contiennent des graphes sous forme de GraphML sérialisé (colonne `graphml`), un graphe par ligne (chapitre).
+
+---
+
+# 🎯 Objectifs
+
+Je veux que tu réalises une analyse approfondie pour :
+
+1. COMPARER les deux fichiers de soumission
+2. EXPLIQUER les différences de performance
+3. PROPOSER des pistes concrètes d’amélioration
+4. TOUT FAIRE UNIQUEMENT sous l’angle de la taille de fenêtre de cooccurrence
+
+---
+
+# 📊 1. Analyse comparative
+
+Pour chaque fichier :
+
+- Extraire :
+  - nombre moyen de nœuds
+  - nombre moyen d’arêtes
+  - densité moyenne du graphe
+- Comparer :
+  - distribution des degrés
+  - sparsité vs densité
+  - variation entre chapitres
+
+Ensuite :
+
+- Identifier les différences structurelles majeures entre A et B
+- Répondre :
+  - le graphe B est-il plus dense ou plus bruité ?
+  - le graphe A est-il plus précis mais moins couvrant ?
+
+---
+
+# 🔍 2. Analyse des erreurs (niveau recherche)
+
+Même sans vérité terrain explicite :
+
+- inférer les erreurs possibles :
+  - sur-génération d’arêtes (fenêtre trop grande)
+  - sous-génération (fenêtre trop petite)
+  - bruit structurel (cooccurrence non pertinente)
+
+- analyser :
+  - si B introduit plus de faux positifs
+  - ou si A manque des relations importantes
+
+---
+
+# 🧠 3. Interprétation liée à WINDOW_SIZE
+
+Relier explicitement les observations à la taille de fenêtre :
+
+- expliquer l’impact théorique de :
+  - petite fenêtre (ex : 10–15)
+  - moyenne (20–30)
+  - grande (40–50+)
+
+- identifier dans quel régime se trouvent A et B :
+  - sous-connexion
+  - bon compromis
+  - sur-connexion / bruit
+
+---
+
+# 🚀 4. Recommandations expérimentales (très important)
+
+Proposer une stratégie claire pour améliorer le score :
+
+### a) Exploration fine
+- proposer une grille de test réaliste :
+  - ex : 15, 18, 20, 22, 25, 28, 30, 35
+- expliquer pourquoi ces valeurs
+
+### b) Hypothèse optimale
+- proposer une zone probable optimale de WINDOW_SIZE
+- justifier avec les observations
+
+### c) Méthodologie
+- comment valider expérimentalement :
+  - quels indicateurs suivre en plus du leaderboard
+  - comment détecter overfitting / underfitting
+
+---
+
+# 📈 5. Bonus (niveau M1 → M2)
+
+- proposer des métriques internes utiles :
+  - densité cible
+  - ratio arêtes / nœuds
+- expliquer comment relier ces métriques au score F1
+
+---
+
+# ⚠️ Contraintes
+
+- Ne PAS proposer d’amélioration autre que la taille de fenêtre
+- Ne PAS parler de modèles ML, NER ou polarité
+- Se concentrer uniquement sur :
+  → la structure du graphe
+  → la cooccurrence
+  → WINDOW_SIZE
+
+---
+
+# 📦 Format attendu
+
+Réponse structurée comme un mini rapport :
+
+1. Résumé exécutif
+2. Analyse comparative
+3. Interprétation théorique
+4. Recommandations expérimentales
+5. Conclusion
+
+---
+
+# 📎 Données
+
+Je vais maintenant te fournir :
+
+- Fichier A (baseline)
+- Fichier B (comparatif)
+- Score de B
+
+Travaille directement dessus.

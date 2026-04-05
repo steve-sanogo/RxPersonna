@@ -99,13 +99,23 @@ class GraphBuilder:
                 attrs = {"weight": weight}
 
                 # Intégration de la polarité si le dictionnaire est fourni
-                if polarity_map:
+                if polarity_map is not None:
                     pair = tuple(sorted((char1, char2)))
                     score = polarity_map.get(pair, 0.0)
                     attrs["polarity_score"] = round(score, 2)
-                    attrs["polarity_label"] = ExtractionRules.get_label(score)
+                    # Labellisation selon la méthode configurée
+                    if Config.POLARITY_METHOD == "chapter_3labels":
+                        attrs["polarity_label"] = ExtractionRules.get_label_3(score)
+                    else:
+                        attrs["polarity_label"] = ExtractionRules.get_label(score)
 
                 G.add_edge(char1, char2, **attrs)
+
+        # --- 2b. SUPPRESSION DES NŒUDS ISOLÉS (FIX B) ---
+        # Un nœud de degré 0 n'a aucune co-occurrence détectée → bruit pur
+        isolates = list(nx.isolates(G))
+        if isolates:
+            G.remove_nodes_from(isolates)
 
         # --- 3. GÉNÉRATION DU CONTENU ET EXPORT ---
         chapter_id = f"{book}{chapter}"

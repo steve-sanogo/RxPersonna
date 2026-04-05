@@ -2,22 +2,47 @@ import os
 
 
 class Config:
-    # Chemins
-    ROOT_PATH = "./data/row"  # repertoire vers les donnéés brute
-    OUTPUT_PATH = "./data/outputs"  # ex : f"{root_path}/preprocessed/"
-    STOP_WORDS_PATH = "./data/mots-vides.txt"
+    # --- RACINE DU PROJET ---
+    PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+    # --- CHEMINS DATA ---
+    DATA_PATH = os.path.join(PROJECT_ROOT, "data")
+
+    ROOT_PATH = os.path.join(DATA_PATH, "raw")
+    OUTPUT_PATH = os.path.join(DATA_PATH, "outputs")
+    STOP_WORDS_PATH = os.path.join(DATA_PATH, "raw", "mots-vides.txt")
 
     # Paramètres du modèle
     WINDOW_SIZE = 25  # fenêtre de relation telle que définie
     MIN_SENTENCE_LENGTH = 5  # utilisé pour la co-occurance
 
-    # --- COEFFICIENTS DE POLARITÉ (Formule S_c) ---
+    # --- FLAGS D'EXPÉRIMENTATION (Nouvelles approches) ---
+    USE_CONTEXT_FILTER = True     # Filtrage contextuel verbes/adjectifs
+    USE_GRAPH_DISAMBIG = True     # Désambiguïsation structurelle sur le graphe
+    APPLY_GRAPH_MERGES = False    # Si True, applique les fusions suggérées par le graphe
+
+    # --- PARAMÈTRES DU FILTRE CONTEXTUEL ---
+    CONTEXT_FILTER_WINDOW = 10       # Fenêtre de tokens autour de l'entité
+    CONTEXT_FILTER_THRESHOLD = -1.5  # Score sous lequel on exclut (négatif = non-humain)
+    CONTEXT_FILTER_ADJ_WEIGHT = 0.7  # Poids des adjectifs vs verbes (< 1 = moins décisifs)
+
+    # --- PARAMÈTRES DE DÉSAMBIGUÏSATION GRAPHE ---
+    GRAPH_DISAMBIG_THRESHOLD = 0.4   # Seuil Jaccard pour candidats fusion
+    GRAPH_DISAMBIG_MAX_MERGES = 3    # Nombre max de fusions automatiques
+
+    # --- MÉTHODE DE POLARITÉ ---
+    # "chapter_3labels" : polarité ternaire symbolique par chapitre (méthode principale)
+    # "legacy"          : polarité continue à 5 classes avec pondérations (perspective)
+    POLARITY_METHOD = "chapter_3labels"
+
+    # --- COEFFICIENTS DE POLARITÉ LEGACY (Formule S_c) ---
     POLARITY_BETA = 1.2  # Poids pour les interactions de type dialogue
     POLARITY_DELTA = 2.0  # Poids pour les affiliations structurelles (famille, etc.)
     POLARITY_EPSILON = 0.05  # Poids du signal faible de cooccurrence
 
     # Parasites de début de phrase (Pour le nettoyage NER)
-    PARASITES = ["instantanément", "soudain", "puis", "cependant", "alors", "enfin"]
+    PARASITES = ["instantanément", "soudain", "puis",
+                 "galactica", "grimace de", "l’affaire", "―", "― a",
+                 "cependant", "alors", "enfin", "d’"]
 
     BAD_TERMS = {
         # Lieux
@@ -55,7 +80,27 @@ class Config:
         'sergent', 'descendants', 'violents', 'frère', 'sœur', 'sœurs',
         'maître', 'exo', 'primo', 'lugubre', 'emmer', 'mycélium',
         # Expressions
-        'dernier empereur', "l'empereur",
+        'dernier empereur',
+
+        # personnages bibliques lac3
+        "jéhu", "ahab", "naboth", "jézabel", "j’avisai", "tenez", "f'", "goutte", "livraison",
+        "goutte-de-pluie quarante-trois", "goutte-de-pluie quarante", "marcher",
+        "le frère", "ba-lee", "bande-céleste deux",
+
+        # ajouté dernièrement
+        "p't-être", "ch'sais", "e.g", "m'dame",  # contractions mal tokenisées
+        "mycogène mycogène", "a trantor", "redites",  # lieux / noms communs
+        "raison", "renégat",  # noms communs capturés
+
+        # --- FIX A : Lieux détectés comme personnages ---
+        "kan", "kan kan", "aurora",
+
+        # --- FIX D : Rôles génériques / titres / ethnonymes capturés ---
+        "la fille", "la sœur", "le mycogénien",
+        "fils", "fils de l'aube",
+        "grand ancien", "frère honoraire",
+        "bande-céleste", "bande céleste",
+
     }
 
     FALSE_POSITIVES = {

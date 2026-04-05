@@ -25,8 +25,18 @@ class ExtractionRules:
 
     @staticmethod
     def get_label(score):
+        """Labellisation legacy à 5 classes (conservée pour rétrocompatibilité)."""
         if score <= -1.5: return "ennemi"
         if score <= -0.5: return "plutot_ennemi"
         if score < 0.5:   return "neutre"
         if score < 1.5:   return "plutot_ami"
         return "ami"
+
+    @staticmethod
+    def get_label_3(score):
+        """Labellisation ternaire : ami / neutre / ennemi (méthode principale)."""
+        if score > 0:
+            return "ami"
+        elif score < 0:
+            return "ennemi"
+        return "neutre"
