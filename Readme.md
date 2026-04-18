@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![NLP](https://img.shields.io/badge/NLP-SpaCy%20%7C%20Flair-green)
 ![Hybrid AI](https://img.shields.io/badge/Approach-Hybrid%20AI-orange)
-![Score](https://img.shields.io/badge/F1--Score-0.65-brightgreen)
+![Score](https://img.shields.io/badge/F1--Score-0.66-brightgreen)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-foundation--graph.pages.dev-cyan?logo=cloudflare)](https://53c4d986.foundation-graph.pages.dev/)
 
 ## Project Overview
 
@@ -84,7 +85,7 @@ Applied to a **37-chapter subset of the Foundation corpus**, the system produced
 - **249 character nodes**
 - **360 interaction edges**
 - **28 non-neutral polarity labels** (19 *ennemi*, 9 *ami*)
-- **F1-score: 0.65 on the course benchmark leaderboard** (up from 0.57 baseline)
+- **F1-score: 0.66 on the course benchmark leaderboard** (up from 0.57 baseline)
 
 ---
 
@@ -130,6 +131,20 @@ Applied to a **37-chapter subset of the Foundation corpus**, the system produced
 
 ---
 
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/steve-sanogo/RxPersonna.git
+cd RxPersonna
+
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Download the French SpaCy model (required)
+python -m spacy download fr_core_news_md
+```
+
 ## Configuration
 
 Key parameters in `config.py`:
@@ -138,8 +153,8 @@ Key parameters in `config.py`:
 |---|---|---|
 | `POLARITY_METHOD` | `"chapter_3labels"` | Ternary polarity per chapter (main) |
 | `USE_CONTEXT_FILTER` | `True` | Contextual entity filtering |
-| `USE_GRAPH_DISAMBIG` | `True` | Structural graph disambiguation |
-| `WINDOW_SIZE` | `25` | Co-occurrence window (tokens) |
+| `USE_GRAPH_DISAMBIG` | `False` | Structural graph disambiguation (experimental) |
+| `WINDOW_SIZE` | `20` | Co-occurrence window (tokens) |
 
 ---
 ## Visualization & Analysis Tools
@@ -156,12 +171,22 @@ Use `visualize_polarity.py` to generate high-resolution plots with sentiment-cod
 | **Ego-Graph** | `python utils/scripts/visualize_polarity.py all --ego "Hari"` | Focus on one character and their neighbors. |
 | **Save** | `python utils/scripts/visualize_polarity.py lca3 --save` | Export as PNG to `./data/images/final`. |
 
-### 2. Interactive Web Viewer (D3.js)
-For a dynamic exploration (zoom, drag, and hover tooltips), use the web-based viewer:
+### 2. Interactive Web Viewer (D3.js) — Live Deployment
 
-1.  **Data Preparation**: Run `python utils/visual/merge.py`. This script converts the CSV submission into a JSON format compatible with the web viewer.
-2.  **Update**: The script generates/updates the data constant used by the viewer.
-3.  **Launch**: Open `utils/visual/graph_viewer.html` in any web browser to explore the interactive "Foundation Universe" map.
+A fully deployed version of the interactive viewer is publicly accessible at:
+
+> **[https://53c4d986.foundation-graph.pages.dev/](https://53c4d986.foundation-graph.pages.dev/)**
+
+The viewer offers two modes:
+
+- **Explorer** — Navigate the character network chapter by chapter, with zoom, drag, and hover tooltips showing polarity statistics per character.
+- **Ask the Graph** — Query the network in natural language (French or English) using a rule-based NLP parser grounded in the extracted graph data.
+
+To run it locally from the repository:
+
+1. **Data Preparation**: Run `python utils/visual/merge.py`. This script converts the CSV submission into a JSON format compatible with the web viewer.
+2. **Update**: The script generates/updates the data constant used by the viewer.
+3. **Launch**: Open `utils/visual/graph_viewer.html` in any web browser to explore the interactive "Foundation Universe" map.
 
 ### Visual Legend
 - 🟢 **Green**: Positive interaction / Alliance.
@@ -192,7 +217,29 @@ This project was developed within the framework of the **Master 1 Computer Scien
 
 * **Permissions**: The source code, documentation, and research reports contained in this repository are available for academic review and grading by the teaching staff of Avignon Université.
 * **Restrictions**: No part of this project may be reproduced, distributed, or transmitted in any form or by any means for commercial purposes without the prior written permission of the Lead Architect (**Steve B. SANOGO**).
-* **Citation**: Any use of the methodology or the polarity formula in subsequent research must properly cite this repository and its authors.
+* **Citation**: Any use of the methodology, the polarity formula, or the interactive viewer in subsequent research must properly cite this repository and its authors using the reference below.
+
+### How to Cite
+
+**BibTeX**
+
+```bibtex
+@misc{sanogo_ghilas_2026_rxpersonna,
+  author       = {Sanogo, Steve B. and Ghilas, Malika},
+  title        = {{RxPersonna}: Hybrid NLP Pipeline for Character Interaction
+                  Network Extraction from the \textit{Foundation} Corpus},
+  year         = {2026},
+  institution  = {Avignon Université, Master 1 Intelligence Artificielle (CERI)},
+  note         = {Course project — Analyse et Modélisation de Systèmes (AMS).
+                  Interactive viewer available at
+                  \url{https://53c4d986.foundation-graph.pages.dev/}},
+  url          = {https://github.com/steve-sanogo/RxPersonna},
+}
+```
+
+**Plain text (APA-style)**
+
+> Sanogo, S. B., & Ghilas, M. (2026). *RxPersonna: Hybrid NLP Pipeline for Character Interaction Network Extraction from the Foundation Corpus* [Course project, Analyse et Modélisation de Systèmes]. Avignon Université, Master 1 Intelligence Artificielle (CERI). Retrieved from https://github.com/steve-sanogo/RxPersonna
 
 ---
 *Last Updated: April 2026*
